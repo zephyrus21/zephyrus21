@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical)
+
+
+<p align="center">
+<a href="https://twitter.com/zephyrusp21"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/zephyrus21/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/zephyrus21/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/zephyrus.io/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+</p>
