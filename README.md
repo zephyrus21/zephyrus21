@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react-native/react-native-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://devicon.dev/devicon.git/icons/android/android-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="django" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical" alt="piyush-stats" />
 </p>
 <p align="center">
