@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://en.wikipedia.org/wiki/React_(web_framework)#/media/File:React-icon.svg"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
   <img src="https://img.icons8.com/nolan/48/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   
