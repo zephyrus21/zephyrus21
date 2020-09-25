@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical" alt="piyush-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true" alt="piyush-stats" />
 </p>
 <p align="center">
 <a href="https://twitter.com/zephyrusp21"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
