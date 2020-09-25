@@ -23,7 +23,10 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/nolan/48/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 
 <p align="center">
