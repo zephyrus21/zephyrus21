@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Piyush Pandey 20 years of age from Jharsuguda, Odisha, India. I'm a student pursuing 2nd year B.Tech degree on Computer Science and Engineering.
+I'm **Piyush Pandey**, 20 years of age from Jharsuguda, Odisha, India. I'm a student pursuing 2nd year B.Tech degree on Computer Science and Engineering.
 
 Here are somethings about me to get you started:
 
