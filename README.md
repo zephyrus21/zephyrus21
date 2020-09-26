@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm **Piyush Pandey**, 20 years of age from Jharsuguda, Odisha, India. I'm a student pursuing 2nd year B.Tech degree on Computer Science and Engineering.
 
@@ -13,8 +13,9 @@ Here are somethings about me to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+### Expertise
 <p align="center">
-  <h2>Expertise</h2>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
