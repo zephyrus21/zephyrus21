@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+I'm Piyush Pandey 20 years of age from Jharsuguda, Odisha, India. I'm a student pursuing 2nd year B.Tech degree on Computer Science and Engineering.
 
-
-Here are some ideas to get you started:
+Here are somethings about me to get you started:
 
 - 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything, if I know I will answer if I don't know we will find the answer together.
