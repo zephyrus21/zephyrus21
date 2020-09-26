@@ -25,8 +25,8 @@ Here are somethings about me to get you started:
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 
