@@ -4,17 +4,16 @@ I'm **Piyush Pandey**, 20 years of age from Jharsuguda, Odisha, India. I'm a stu
 
 Here are somethings about me to get you started:
 
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m a intermediate level frontend web developer and a computer science enthusiast along with competitive coder using C++.
+- 🌱 I’m currently learning React Native and backend web development using Node.js and MongoDb as my database.
+- 👯 My ambition is to become a full-stack web developer and have my own start-up.
+- 🤔 I’m curious to know about differnt technologies and to learn Data Science and ML someday.
 - 💬 Ask me about anything, if I know I will answer if I don't know we will find the answer together.
 - 📫 How to reach me: pandey.piyus@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Do you know that I'm half filled???  -Your knowledge can fill me a bit.
 
 
-### Expertise
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
