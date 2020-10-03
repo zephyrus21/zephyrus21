@@ -1,17 +1,21 @@
 <img src="piyush-final.gif" width="1000px">
 
-I'm **Piyush Pandey**, 20 years of age from Jharsuguda, Odisha, India. I'm a student pursuing 2nd year B.Tech degree on Computer Science and Engineering.
+I'm **Piyush Pandey**, a Full Stack | MERN Stack Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
 
-Here are somethings about me to get you started:
+I love connecting with different people so if you want to say hi 💬 pandey.piyus@gmail.com, I'll be happy to have a chat with you!
 
--   🔭 I’m a intermediate level frontend web developer and a computer science enthusiast along with competitive coder using C++.
--   🌱 I’m currently learning React Native and backend web development using Node.js and MongoDb as my database.
--   👯 My ambition is to become a full-stack web developer and have my own start-up.
--   🤔 I’m curious to know about differnt technologies and to learn Data Science and ML someday.
--   💬 Ask me about anything, if I know I will answer if I don't know we will find the answer together.
--   📫 How to reach me: pandey.piyus@gmail.com
--   😄 Pronouns: he/him
--   ⚡ Fun fact: Do you know that I'm half filled??? -Your knowledge can fill me a bit.
+Always ready to colabrate with different people and their weird ideas and stuffs.
+
+## 💼 Things that I'm currently working on:
+
+-   Learning Back-End Web💻 Development.
+-   Looking forward to take a Flutter📲 course in future.🔜
+
+## 🔭 Things I could do:
+
+-   Code in C, C++, Java, JavaScript and Python.
+-   Technologies I use React, React Native, NodeJS, mongoDb.
+-   My IDE Visual Studio Code.
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
