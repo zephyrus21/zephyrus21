@@ -46,5 +46,5 @@ Here are somethings about me to get you started:
 <a href="https://www.instagram.com/zephyrus.io/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
 
-<p align="center"><img src="gh-1.gif" width="200px"><img src="gh-2.gif" width="200px">
+<p align="center"><img src="gh-1.gif" width="200px"><img src="gh-4.png" width="200px"><img src="gh-2.gif" width="200px">
 </p>
