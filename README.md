@@ -31,11 +31,11 @@ Here are somethings about me to get you started:
 
 <br/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical" alt="piyush-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" />
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=radical&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact">
 </p>
 
 <br/>
@@ -44,4 +44,7 @@ Here are somethings about me to get you started:
 <a href="https://www.linkedin.com/in/zephyrus21/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.facebook.com/zephyrus21/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/zephyrus.io/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+</p>
+
+<p align="center"><img src="gh-1.gif" width="200px"><img src="gh-2.gif" width="200px">
 </p>
