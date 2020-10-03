@@ -1,4 +1,4 @@
-<h2> Hello, this is Annu  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
+<h2> Hello, this is Piyush  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="./life_balance.gif">
 
 I'm **Piyush Pandey**, 20 years of age from Jharsuguda, Odisha, India. I'm a student pursuing 2nd year B.Tech degree on Computer Science and Engineering.
 
