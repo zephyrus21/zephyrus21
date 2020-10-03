@@ -1,6 +1,4 @@
-<h1> Hello there, this is Piyush  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-<img src="piyush-final.gif" width="760px">
+<img src="piyush-final.gif" width="800px">
 
 <br/>
 <br/>
@@ -17,10 +15,6 @@ Here are somethings about me to get you started:
 -   📫 How to reach me: pandey.piyus@gmail.com
 -   😄 Pronouns: he/him
 -   ⚡ Fun fact: Do you know that I'm half filled??? -Your knowledge can fill me a bit.
-
-<br/>
-
-## :computer: Technologies I Love
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
