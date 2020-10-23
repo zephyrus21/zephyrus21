@@ -14,7 +14,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 ## 🔭 Things I could do:
 
 -   Code in C, C++, Java, JavaScript and Python.
--   Technologies I use React, React Native, NodeJS, mongoDb.
+-   Technologies I use React, React Native, Gatsbay, Next.js, Firebase, NodeJS, mongoDb.
 -   My IDE Visual Studio Code.
 
 <p align="center">
