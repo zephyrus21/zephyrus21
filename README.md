@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=zephyrus21&color=green&style=flat-square&color=blueviolet)
 <img src="piyush-final.gif" width="1000px">
 
 I'm **Piyush Pandey**, a Full Stack | MERN Stack Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
@@ -35,6 +34,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 
 <br/>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zephyrus21&color=green&style=flat-square&color=blueviolet"/>
 <img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" />
 <br />
 <br />
