@@ -39,7 +39,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact">
-<img src="https://komarev.com/ghpvc/?username=zephyrus21&color=green&style=flat-square&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=zephyrus21&color=green&style=flat-square&color=blueviolet" width="100%"/>
 </p>
 
 <br/>
