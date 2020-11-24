@@ -42,7 +42,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=zephyrus21&color=green&style=flat-square&color=#7A29C3" /></p>
+<img src="https://komarev.com/ghpvc/?username=zephyrus21&color=green&style=flat-square&color=7A29C3" width="20%" /></p>
 
 <br/>
 <p align="center">
