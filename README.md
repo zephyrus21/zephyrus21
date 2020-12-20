@@ -31,7 +31,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzOCA1NyIgY2xhc3M9InN2ZyI+CiAgPHBhdGggZmlsbD0iIzFhYmNmZSIgZD0iTTE5IDI4LjVhOS41IDkuNSAwIDEgMSAxOSAwIDkuNSA5LjUgMCAwIDEtMTkgMHoiLz4KICA8cGF0aCBmaWxsPSIjMGFjZjgzIiBkPSJNMCA0Ny41QTkuNSA5LjUgMCAwIDEgOS41IDM4SDE5djkuNWE5LjUgOS41IDAgMSAxLTE5IDB6Ii8+CiAgPHBhdGggZmlsbD0iI2ZmNzI2MiIgZD0iTTE5IDB2MTloOS41YTkuNSA5LjUgMCAxIDAgMC0xOUgxOXoiLz4KICA8cGF0aCBmaWxsPSIjZjI0ZTFlIiBkPSJNMCA5LjVBOS41IDkuNSAwIDAgMCA5LjUgMTlIMTlWMEg5LjVBOS41IDkuNSAwIDAgMCAwIDkuNXoiLz4KICA8cGF0aCBmaWxsPSIjYTI1OWZmIiBkPSJNMCAyOC41QTkuNSA5LjUgMCAwIDAgOS41IDM4SDE5VjE5SDkuNUE5LjUgOS41IDAgMCAwIDAgMjguNXoiLz4KPC9zdmc+Cg==">
+  <img src="figma-1.svg"/>
 </p>
 
 <br/>
