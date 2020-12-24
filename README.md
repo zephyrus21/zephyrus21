@@ -1,6 +1,6 @@
 <img src="piyush-final.gif" width="1000px">
 
-I'm **Piyush Pandey**, a Full Stack | MERN Stack Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
+I'm **Piyush Pandey**, a Front End Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
 
 I love connecting with different people so if you want to say hi 💬 pandey.piyus@gmail.com, I'll be happy to have a chat with you!
 
