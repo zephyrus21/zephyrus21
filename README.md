@@ -18,7 +18,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 -   My IDE Visual Studio Code.
 
 ### Suppport my work 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zephyrus21" data-color="#BD5FFF" data-emoji=""  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="zephyrus21" data-color="#BD5FFF" data-emoji=""  data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" />
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
