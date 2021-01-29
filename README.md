@@ -31,8 +31,8 @@ https://www.buymeacoffee.com/zephyrus21
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-  <img src="gatsby-seeklogo.com.svg" width="46px"/>
-  <img src="next-js-seeklogo.com.svg" width="46px"/>
+  <img src="gatsby-seeklogo.com.svg" width="44px"/>
+  <img src="next-js-seeklogo.com.svg" width="44px"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
