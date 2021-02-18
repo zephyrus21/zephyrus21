@@ -22,6 +22,8 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 ### Suppport my work 
 https://www.buymeacoffee.com/zephyrus21
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5)
+
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
