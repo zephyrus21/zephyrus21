@@ -42,7 +42,7 @@ https://www.buymeacoffee.com/zephyrus21
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="figma-1.svg" width="28px"/>
 </p>
-
+<br/>
 <br/>
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" /> -->
@@ -54,7 +54,7 @@ https://www.buymeacoffee.com/zephyrus21
 <br/>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=zephyrus21"/> -->
 </p>
-<br/>
+
 
 <p align="center">
 
