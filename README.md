@@ -52,7 +52,7 @@ https://www.buymeacoffee.com/zephyrus21
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact">
 </p>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zephyrus21&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zephyrus21&theme=dark" align="center">
 <p align="center">
 
 <br/>
