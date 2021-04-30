@@ -10,8 +10,8 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 
 ## 💼 Things that I'm currently working on:
 
--   Learning Back-End Web💻 Development.
--   Looking forward to take a Flutter📲 course in future.🔜
+-   Learning Flutter📲.
+-   Looking forward for oportunities on front-end development.
 
 ## 🔭 Things I could do:
 
@@ -20,7 +20,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 -   My IDE Visual Studio Code.
 
 ### Suppport my work 
-https://www.buymeacoffee.com/zephyrus21
+[Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5)
 
