@@ -32,6 +32,9 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="https://img.icons8.com/color/48/000000/golang.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+</p>
+<br/>
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="redux-seeklogo.com.svg" width="44px"/>
   <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
@@ -42,7 +45,6 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
-<br/>
 <br/>
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" /> -->
