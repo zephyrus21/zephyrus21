@@ -43,7 +43,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="svelte-logo.png" width="38px"/>
   <img src="nodejs-seeklogo.com.svg" width="44px"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> -->
-  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/firebase.png"/> -->
 </p>
 <br/>
 <p align="center">
