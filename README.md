@@ -10,8 +10,9 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 
 ## 💼 Things that I'm currently working on:
 
--   Learning Flutter📲.
--   Looking forward for oportunities on front-end development.
+-   Learning Backend with Go and PostgresSQL.
+-   Looking forward to learn Flutter.
+-   Want to learn Rust in further future.
 
 ## 🔭 Things I could do:
 
