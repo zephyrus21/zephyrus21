@@ -16,8 +16,8 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 
 ## 🔭 Things I could do:
 
--   Code in C, C++, Java, JavaScript and Go.
--   Technologies I use React, React Native, Gatsbay, Next.js, Firebase, NodeJS, mongoDb.
+-   Code in C, C++, Java, Go, JavaScript, TypeScript.
+-   Technologies I use React, React Native, Gatsbay, Next.js, Firebase, NodeJS.
 -   My IDE Visual Studio Code.
 
 ### Suppport my work 
@@ -63,7 +63,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 
 <br/>
 <p align="center">
-<a href="https://twitter.com/zephyrusp21"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/zephyrusp_io"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/zephyrus21/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.facebook.com/zephyrus21/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/zephyrus.io/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
