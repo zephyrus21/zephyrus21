@@ -20,10 +20,9 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 -   Technologies I use React, React Native, Gatsbay, Next.js, Firebase, NodeJS.
 -   My IDE Visual Studio Code.
 
-### Suppport my work 
+<!-- ### Suppport my work 
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
 
 
 <p align="center">
