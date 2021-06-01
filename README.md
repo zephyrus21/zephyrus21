@@ -54,7 +54,8 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/>
 <br/>
- [![zephyrus21's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zephyrus21&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zephyrus21&layout=compact&theme=midnight-purple"/>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=zephyrus21"/> -->
 </p>
 
@@ -73,53 +74,4 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 </p>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
-🌆 Daytime    246 commits    █████████░░░░░░░░░░░░░░░░   38.68% 
-🌃 Evening    227 commits    █████████░░░░░░░░░░░░░░░░   35.69% 
-🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Wednesday    64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-Thursday     109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Friday       110 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
-Saturday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
-Sunday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               11 hrs 40 mins      ████████████████████░░░░░   80.5% 
-CSS                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
-Sublime Text Config      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
-C                        43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
-Java                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
-
-🔥 Editors: 
-VS Code                  12 hrs 45 mins      ██████████████████████░░░   87.88% 
-Sublime Text             1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12%
-
-🐱‍💻 Projects: 
-jbook-ts                 12 hrs 35 mins      █████████████████████░░░░   86.74% 
-Unknown Project          1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
-Cpp                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
-test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-💻 Operating System: 
-Windows                  14 hrs 30 mins      █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
