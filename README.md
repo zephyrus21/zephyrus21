@@ -54,6 +54,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/>
 <br/>
+ [![Zephyrus21's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zephyrus21&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=zephyrus21"/> -->
 </p>
 
