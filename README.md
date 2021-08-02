@@ -34,18 +34,19 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="https://img.icons8.com/color/48/000000/golang.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 </p>
 <br/>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="redux-seeklogo.com.svg" width="44px"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
   <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-  <img src="gatsby-seeklogo.com.svg" width="44px"/>
   <img src="next-js-seeklogo.com.svg" width="44px"/>
   <img src="svelte-logo.png" width="38px"/>
   <img src="nodejs-seeklogo.com.svg" width="44px"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> -->
-<!--   <img src="https://img.icons8.com/color/48/000000/firebase.png"/> -->
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
 <br/>
 <p align="center">
