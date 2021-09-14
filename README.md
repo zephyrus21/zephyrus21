@@ -22,6 +22,8 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 -   Technologies I use React, React Native, Gatsbay, Next.js, Firebase, NodeJS.
 -   My IDE Visual Studio Code.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p9evly10gfby51rfymrv158sf&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=p9evly10gfby51rfymrv158sf&redirect=true)
+
 <!-- ### Suppport my work 
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
@@ -66,6 +68,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 <p align="center">
 
 <br/>
+  
 <p align="center">
 <a href="https://twitter.com/zephyrusp_io"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/zephyrus21/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
