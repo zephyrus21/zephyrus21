@@ -57,7 +57,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zephyrus21&theme=midnight-purple"/>
 <br />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/> -->
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zephyrus21&layout=compact&theme=midnight-purple"/>
