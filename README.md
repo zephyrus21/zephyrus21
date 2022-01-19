@@ -1,5 +1,7 @@
 <img src="piyush-final.gif" width="1000px">
 
+<img src="my_banner.png" alt="count"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephyrus21&label=Profile%20views&color=blueviolet&style=flat" alt="count" /> </p>
 
 I'm **Piyush Pandey**, a Full Stack Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
