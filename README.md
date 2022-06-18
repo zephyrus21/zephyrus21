@@ -1,4 +1,4 @@
-<img src="piyush-final.gif" width="1000px">
+<img src="piyush-final.gif" width=100%>
 
 <img src="my_banner.png" alt="count"/>
 
@@ -78,7 +78,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 <a href="https://www.instagram.com/zephyrus.io/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
 
-<p align="center"><img src="gh-1.gif" width="200px"><img src="gh-4.png" width="200px"><img src="gh-2.gif" width="200px">
+<p align="center"><img src="gh-1.gif" width=20%><img src="gh-4.png" width="200px"><img src="gh-2.gif" width=20%>
 </p>
 
 <!--START_SECTION:waka-->
