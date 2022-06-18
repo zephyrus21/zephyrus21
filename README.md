@@ -24,8 +24,6 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 -   Technologies I use React, React Native, Gatsbay, Next.js, Firebase, NodeJS.
 -   My IDE Visual Studio Code.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p9evly10gfby51rfymrv158sf&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=p9evly10gfby51rfymrv158sf&redirect=true)
-
 <!-- ### Suppport my work 
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
@@ -78,8 +76,14 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 <a href="https://www.instagram.com/zephyrus.io/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
 
-<p align="center"><img src="gh-1.gif" width=20%><img src="gh-4.png" width=20%><img src="gh-2.gif" width=20%>
-</p>
+<br/>
+<!-- <p align="center"><img src="gh-1.gif" width=20%><img src="gh-4.png" width=20%><img src="gh-2.gif" width=20%>
+</p> -->
+<p align=center>
+  <img align="center" width=60% src="https://spotify-github-profile.vercel.app/api/view?uid=p9evly10gfby51rfymrv158sf&cover_image=true&theme=novatorem" />
+<p>
+  
+<img src="footer.svg">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
