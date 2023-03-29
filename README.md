@@ -34,10 +34,10 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-  <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width="48"/>
+<!--   <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width="48"/> -->
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/dart.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/swift.png"/>
   <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" width="32px"/>
 </p>
@@ -51,7 +51,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="nodejs-seeklogo.com.svg" width="44px"/>
   <!-- <img src="https://img.icons8.com/color/48/000000/flutter.png"/> -->
 <!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> -->
-  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/firebase.png"/> -->
   <img src="ethereum-seeklogo.com.svg" width="30px"/>
   <img src="hardhat-seeklogo.com.svg" width="44px"/>
 </p>
