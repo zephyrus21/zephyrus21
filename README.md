@@ -39,6 +39,7 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/dart.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/swift.png"/>
+  &nbsp;
   <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" width="32px"/>
 </p>
 <br/>
@@ -46,14 +47,29 @@ Always ready to colabrate with different people and their weird ideas and stuffs
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
   <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+  &nbsp;
   <img src="next-js-seeklogo.com.svg" width="44px"/>
+  &nbsp;&nbsp;
   <img src="svelte-logo.png" width="38px"/>
+  &nbsp;&nbsp;
   <img src="nodejs-seeklogo.com.svg" width="44px"/>
+  &nbsp;&nbsp;
   <!-- <img src="https://img.icons8.com/color/48/000000/flutter.png"/> -->
 <!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> -->
 <!--   <img src="https://img.icons8.com/color/48/000000/firebase.png"/> -->
   <img src="ethereum-seeklogo.com.svg" width="30px"/>
+  &nbsp;&nbsp;
   <img src="hardhat-seeklogo.com.svg" width="44px"/>
+</p>
+<br/>
+<p align="center">
+    <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="56px"/>
+  &nbsp;&nbsp;
+    <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" width="44px"/>
+  &nbsp;&nbsp;
+    <img src="https://seeklogo.com/images/P/prometheus-logo-8EB4639A0C-seeklogo.com.png" width="44px"/>
+  &nbsp;&nbsp;
+    <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" width="44px"/>
 </p>
 <br/>
 <p align="center">
