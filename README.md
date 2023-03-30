@@ -4,60 +4,110 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephyrus21&label=Profile%20views&color=blueviolet&style=flat" alt="count" /> </p>
 
-I'm **Piyush Pandey**, a Full Stack Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
-
-I love connecting with different people so if you want to say hi 💬 pandey.piyus@gmail.com, I'll be happy to have a chat with you!
-
-Always ready to colabrate with different people and their weird ideas and stuffs.
+I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter @UIDAI Technology Center, Bengaluru**.
 
 <!-- ### Suppport my work 
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
 
+### 📝  Programming Languages:
+
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Swift.svg" />
+  <!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Solidity.svg" /> -->
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Solidity.png" />
+<br/>
+<p align="center">
+  &nbsp;
+</p>
+
+### 🖼️  Frameworks and Tools:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/React.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Redux.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Svelte.svg" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" />
+<!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" /> -->
+<p align="center">
+  &nbsp;
+</p>
+<p align="center">
+  &nbsp;
+</p>
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Yarn.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/NPM.svg" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" />
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-<!--   <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" width="48"/> -->
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<!--   <img src="https://img.icons8.com/color/48/000000/dart.png"/> -->
-  <img src="https://img.icons8.com/color/48/000000/swift.png"/>
   &nbsp;
-  <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" width="32px"/>
 </p>
-<br/>
+<br>
+
+### 🛠️  DevOps Tools:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Grafana.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" />
+
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
   &nbsp;
-  <img src="next-js-seeklogo.com.svg" width="44px"/>
-  &nbsp;&nbsp;
-  <img src="svelte-logo.png" width="38px"/>
-  &nbsp;&nbsp;
-  <img src="nodejs-seeklogo.com.svg" width="44px"/>
-  &nbsp;&nbsp;
-  <!-- <img src="https://img.icons8.com/color/48/000000/flutter.png"/> -->
-<!--   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> -->
-<!--   <img src="https://img.icons8.com/color/48/000000/firebase.png"/> -->
-  <img src="ethereum-seeklogo.com.svg" width="30px"/>
-  &nbsp;&nbsp;
-  <img src="hardhat-seeklogo.com.svg" width="44px"/>
 </p>
-<br/>
+<br>
+
+### 📚  Databases:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Redis.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
+
+<!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Blender.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" /> -->
+<br>
 <p align="center">
-    <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="56px"/>
-  &nbsp;&nbsp;
-    <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" width="44px"/>
-  &nbsp;&nbsp;
-    <img src="https://seeklogo.com/images/P/prometheus-logo-8EB4639A0C-seeklogo.com.png" width="44px"/>
-  &nbsp;&nbsp;
-    <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" width="44px"/>
+  &nbsp;
 </p>
+
+
+### 💻  IDE:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Vim.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Xcode.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" />
 <br/>
+
+<p align="center">
+  &nbsp;
+</p>
+<p align="center">
+  &nbsp;
+</p>
+
+
+<!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Homebrew.svg" /> -->
+
+
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" /> -->
 
