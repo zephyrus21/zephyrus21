@@ -23,6 +23,7 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
 <br/>
 <br/>
 <br/>
+<br/>
 
 ### 🖼️  Frameworks and Tools:
 
@@ -37,8 +38,7 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" />
 <!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" /> -->
-<br/>
-<br/>
+
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
@@ -47,6 +47,8 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/NPM.svg" />
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" />
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -59,7 +61,10 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Grafana.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" />
-<br/><br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### 📚  Databases:
 
@@ -71,8 +76,10 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
 
 <!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Blender.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" /> -->
-<br/><br/><br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### 💻  IDE:
 
