@@ -37,14 +37,14 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Spring.svg" />
 <!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" /> -->
 
-
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Yarn.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/NPM.svg" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" />
 <br/>
