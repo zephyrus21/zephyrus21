@@ -105,7 +105,7 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
 <br />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/> -->
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zephyrus21&layout=compact&theme=midnight-purple"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zephyrus21&layout=compact&theme=midnight-purple&range=all_time"/>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=zephyrus21"/> -->
 </p>
 
