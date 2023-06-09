@@ -15,7 +15,8 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Rust.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Rust.png" />
+<!--   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Rust.svg" /> -->
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Swift.svg" />
