@@ -2,11 +2,13 @@
 
 <img src="my_banner.png" alt="count"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zephyrus21&label=Profile%20views&color=blueviolet&style=flat" alt="count" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zephyrus21&label=Profile%20views&color=blueviolet&style=flat" alt="count" /> 
+<img src="https://wakatime.com/badge/user/a78a30d8-e481-4ee3-884f-8a6d3abba700.svg" />
+</p>
 
 I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter @UIDAI Technology Center, Bengaluru**.
 
-<!-- ### Suppport my work 
+<!-- ### Support my work 
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y63ONS5) -->
 
@@ -98,7 +100,6 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as an **SDE Inter 
 
 
 <!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Homebrew.svg" /> -->
-
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" /> -->
