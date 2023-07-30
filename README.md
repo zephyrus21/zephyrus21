@@ -6,7 +6,7 @@
 <img src="https://wakatime.com/badge/user/a78a30d8-e481-4ee3-884f-8a6d3abba700.svg" />
 </p>
 
-I'm **Piyush Pandey**, a Software Engineer, currently working as an **Software Developer @Mable.ai**.
+I'm **Piyush Pandey**, a Software Engineer, currently working as a **Software Developer @Mable.ai**.
 
 <!-- ### Support my work 
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
