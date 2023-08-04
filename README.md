@@ -48,8 +48,7 @@ I'm **Piyush Pandey**, a Software Engineer, currently working as a **Software De
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" />
-<br/>
-<br/>
+
 <br/>
 <br/>
 <br/>
