@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A Software Engineer from India, currently working as a Software Developer @Mable.ai with proficiency in Golang, Typescript and Cloud technologies.</h3>
+<h3 align="center">A Software Engineer from India, currently working at Mable.ai with proficiency in Golang, Typescript and Cloud technologies.</h3>
 
 <!-- ### Support my work 
 [Buy Me a Coffee](https://www.buymeacoffee.com/zephyrus21)
