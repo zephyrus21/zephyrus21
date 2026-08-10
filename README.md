@@ -1,3 +1,5 @@
+
+
 <!-- <img src="piyush-final.gif" width=100%> -->
 
 <img src="my_banner.png" alt="count"/>
@@ -126,7 +128,7 @@
 </p> -->
 <p align=center>
   <img align="center" width=60% src="https://spotify-github-profile.vercel.app/api/view?uid=p9evly10gfby51rfymrv158sf&cover_image=true&theme=novatorem" />
-<p>
+</p>
   
 <img src="footer.svg">
 
